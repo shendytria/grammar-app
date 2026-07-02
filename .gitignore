@@ -1,0 +1,5 @@
+venv/
+grammafix-finetuned/
+__pycache__/
+*.pyc
+.DS_Store
